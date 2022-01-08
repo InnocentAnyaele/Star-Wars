@@ -5,11 +5,11 @@ Simple python class that takes the order in which star wars movies should be wat
 # You can replace this list with any list you want you want. 
 
 
-# Format of list being used. Replace the list using this format 
-# list = {
-#             'A' : 'Episode I: The phantom menace',
-#             'B' : 'Episode II: Attack of the clones',
-#             'C' : 'Star Wars: The Clone Wars',      
+## Format of list being used. Replace the list using this format 
+## list = {
+##             'A' : 'Episode I: The phantom menace',
+##             'B' : 'Episode II: Attack of the clones',
+##            'C' : 'Star Wars: The Clone Wars',      
 #             'D' : 'Episode III: Revenge of the Sith',
 #             'E' : 'Solo : A star wars story',
 #             'F' : 'Rogue One',
